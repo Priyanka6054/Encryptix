@@ -50,7 +50,7 @@ The project successfully demonstrates the process of building a machine learning
 
 # Usage
 To run this project, ensure you have the required libraries installed. You can install the dependencies using the following command:
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn
 Run the Jupyter notebook to execute the code step-by-step.
 
 # Acknowledgements
