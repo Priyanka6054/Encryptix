@@ -48,12 +48,5 @@ The project is organized as follows:
 ## Conclusion
 The project successfully demonstrates the process of building a machine learning model to detect fraudulent credit card transactions, with a particular focus on handling imbalanced data. Future work could explore other advanced techniques and models to improve detection performance.
 
-## Usage
-To run this project, ensure you have the required libraries installed. You can install the dependencies using the following command:
-pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn
-Run the Jupyter notebook to execute the code step-by-step.
-
-## Acknowledgements
-* The dataset is provided by Kaggle.
 
 
